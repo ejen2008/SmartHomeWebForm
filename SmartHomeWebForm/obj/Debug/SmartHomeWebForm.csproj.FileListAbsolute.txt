@@ -1,0 +1,13 @@
+E:\3. ASP.net\Практика\SmartHomeWebForm\SmartHomeWebForm\obj\Debug\SmartHomeWebForm.csprojResolveAssemblyReference.cache
+E:\3. ASP.net\Практика\SmartHomeWebForm\SmartHomeWebForm\bin\SmartHomeWebForm.dll
+E:\3. ASP.net\Практика\SmartHomeWebForm\SmartHomeWebForm\bin\SmartHomeWebForm.pdb
+E:\3. ASP.net\Практика\SmartHomeWebForm\SmartHomeWebForm\bin\SmartHomeModel.dll
+E:\3. ASP.net\Практика\SmartHomeWebForm\SmartHomeWebForm\obj\Debug\SmartHomeWebForm.dll
+E:\3. ASP.net\Практика\SmartHomeWebForm\SmartHomeWebForm\obj\Debug\SmartHomeWebForm.pdb
+C:\Users\Евгений\Downloads\SmartHomeWebForm-master\SmartHomeWebForm-master\SmartHomeWebForm\bin\SmartHomeWebForm.dll.config
+C:\Users\Евгений\Downloads\SmartHomeWebForm-master\SmartHomeWebForm-master\SmartHomeWebForm\bin\SmartHomeWebForm.dll
+C:\Users\Евгений\Downloads\SmartHomeWebForm-master\SmartHomeWebForm-master\SmartHomeWebForm\bin\SmartHomeWebForm.pdb
+C:\Users\Евгений\Downloads\SmartHomeWebForm-master\SmartHomeWebForm-master\SmartHomeWebForm\bin\SmartHomeModel.dll
+C:\Users\Евгений\Downloads\SmartHomeWebForm-master\SmartHomeWebForm-master\SmartHomeWebForm\obj\Debug\SmartHomeWebForm.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Downloads\SmartHomeWebForm-master\SmartHomeWebForm-master\SmartHomeWebForm\obj\Debug\SmartHomeWebForm.dll
+C:\Users\Евгений\Downloads\SmartHomeWebForm-master\SmartHomeWebForm-master\SmartHomeWebForm\obj\Debug\SmartHomeWebForm.pdb
